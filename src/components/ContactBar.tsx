@@ -3,7 +3,7 @@ import { Mail, Phone, Clock, Facebook, Twitter, Instagram, Linkedin } from 'luci
 
 const ContactBar = () => {
   return (
-    <div className="bg-blue-600 text-white py-2 sm:py-3 fixed w-full top-0 z-50">
+    <div className="bg-blue-600 text-white py-1 sm:py-2 fixed w-full top-0 z-50">
       <div className="max-w-7xl mx-auto px-3 sm:px-4">
         <div className="flex justify-between items-center text-xs sm:text-sm">
           <div className="flex items-center gap-2 sm:gap-4">
